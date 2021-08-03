@@ -38,3 +38,6 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+  ![Snake animation](https://github.com/Caiovg/Caiovg/blob/output/github-contribution-grid-snake.svg)
+ 
