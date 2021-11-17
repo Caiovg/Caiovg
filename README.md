@@ -5,7 +5,7 @@
 <div> 
   <a href="https://www.instagram.com/caio.breezy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrtdMKwHXhzVNlVWLvvczjLNhbxzKHMvZTFcKdPVZFcRdsZNcxgdVqNGsXdcmRWpPltFL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-vinicius-gon%C3%A7alves-6160911a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/caio-vinicius-gon%C3%A7alves-6160911a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## 🛠 Minhas características
@@ -14,6 +14,7 @@
 - 🌱 Estudando Typescript
 - 💬 Pergunte-me sobre qualquer coisa [ aqui ](https://github.com/Caiovg/Caiovg/issues)
 - 🧠 Me formando em Ciência da Computação
+- 📰 [Portfólio](https://portfolio-caio.netlify.app/)
 <br>
 > “Não é a linguagem de programação que define o programador, mas sim sua lógica.”
 <br><br>
