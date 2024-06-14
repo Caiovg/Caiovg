@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou o Caio Vinicius Gonçalves - 18 anos</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou o Caio Vinicius Gonçalves</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br>
@@ -11,9 +11,7 @@
 ## 🛠 Minhas características
 
 - 🧑‍💻 Sou desenvolvedor Java Full Stack
-- 🌱 Estudando Typescript
-- 💬 Pergunte-me sobre qualquer coisa [ aqui ](https://github.com/Caiovg/Caiovg/issues)
-- 🧠 Me formando em Ciência da Computação
+- 🧠 Ciêntista da Computação
 - 📰 [Portfólio](https://portfolio-caio.netlify.app/)
 <br>
 > “Não é a linguagem de programação que define o programador, mas sim sua lógica.”
